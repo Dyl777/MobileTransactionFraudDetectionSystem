@@ -1,8 +1,6 @@
 # MobileTransactionFraudDetectionSystem
 Cloud-oriented implementation of a mobile transaction fraud detection system
 
-Here’s a summary of all the tables we have designed so far, their attributes, and how they relate to each other, along with the ER diagram structure and referential integrity constraints.
-
 ---
 
 ### **List of Tables**
@@ -150,4 +148,4 @@ Here’s a summary of all the tables we have designed so far, their attributes, 
 
 ---
 
-Would you like me to create a detailed textual or graphical representation of the ER diagram?
+
